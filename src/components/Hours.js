@@ -10,7 +10,7 @@ const Hours = () => {
 
   return (
     <div>
-      <h2>Today's Shelter Hours</h2>
+      <h2>Today's Shelter Hours...</h2>
       <p>{openingHours}</p>
     </div>
   );
